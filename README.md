@@ -8,7 +8,7 @@ I'm a student engineer in computer science based in Lyon, France, passionate abo
 I am currently working as an apprentice engineer at the Agence Régionale de Santé Auvergne-Rhône-Alpes where I work mainly  under Javascript and PHP environments.
 
 ### 💬 Get in touch
-Website : [arnaudvolpi.com](https://www.arnaudvolpi.com)
+Website : [arnaudvolpi.com](https://www.arnaudvolpi.com) <br />
 Mail : [arnaudvolp@gmail.com](mailto:arnaudvolp@gmail.com?subject=[GitHub]%20Contact%20)
 <!--
 **ArnaudVolpi/arnaudvolpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
