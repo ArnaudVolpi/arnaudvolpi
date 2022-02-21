@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there ! I'm Arnaud Volpi
+
+
+## 😀 About me 
+I'm a Full-Stack Developer working in Lyon, France.
 
 <!--
 **ArnaudVolpi/arnaudvolpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
