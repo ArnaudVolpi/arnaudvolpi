@@ -1,13 +1,15 @@
 # 👋 Hi there ! I'm Arnaud Volpi
 
 
-### 😀 - About me 
+### 😀 About me 
 I'm a student engineer in computer science based in Lyon, France, passionate about the world of development for the past 6 years. Mainly focused on web development since 2019 I discovered a passion for design and front-end development with modern javascript frameworks like Angular, React or Vue.
 
-### 💻 - My Job
-I am currently working as an apprentice engineer at the Agence Régionale de Santé Auvergne-Rhône-Alpes. Where I work mainly as a fullstack developper under javascript and php environments.
+### 💻 My Job
+I am currently working as an apprentice engineer at the Agence Régionale de Santé Auvergne-Rhône-Alpes where I work mainly  under Javascript and PHP environments.
 
-
+### 💬 Get in touch
+Website : [arnaudvolpi.com](https://www.arnaudvolpi.com)
+Mail : [arnaudvolp@gmail.com](mailto:arnaudvolp@gmail.com?subject=[GitHub]%20Contact%20)
 <!--
 **ArnaudVolpi/arnaudvolpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
