@@ -1,7 +1,7 @@
 # 👋 Hi there ! I'm Arnaud 
 
 
-### 😀  About me 
+### 😁  About me 
 I'm a student engineer in computer science based in Lyon, France, passionate about the world of development for the past 6 years. Mainly focused on web development since 2019 I discovered a passion for design and front-end development with modern javascript frameworks like Angular, React or Vue.
 
 ### 💻  My Job
